@@ -10,7 +10,7 @@ class HomeController extends Controller
     {
         dd($_SERVER);
         return view('welcome');
-    } 
+    }
 }
 
 
