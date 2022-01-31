@@ -4,7 +4,7 @@
 
 @section('content')
 
-<h1>Hello</h1>
+<h1 id="page-heading">Hello</h1>
 
 @endsection
 
